@@ -23,6 +23,8 @@ La elección de este dataset se fundamenta en el deseo de utilizar una base real
 
 En esta investigación buscamos determinar cuánto afecta el nivel educativo, la cantidad de hijos y otros indicadores, a la inserción en el mercado laboral de los hogares monomarentales de nuestro país. Luego de un análisis principal de la base para conocer el contexto general de la investigación, intentaremos crear un algoritmo de clasificación para entender la influencia de distintas variables categóricas en un resultado determinado.
 
+Dentro de la carpeta del proyecto se puede encontrar un diccionario con los detalles de cada indicador.
+
 ## Filtros aplicados a los datos
 
 La ECH 2020 cuenta con más de 300 atributos. Para el objetivo del análisis nos centraremos en aquellos que consideramos pertinentes para la exploración y el objetivo del proyecto. Los mismos refieren a nivel educativo, estado laboral, ingresos y otros. El listado se puede encontrar dentro del archivo ipynb que contiene el análisis, en la sección de importación de datos.
