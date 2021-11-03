@@ -21,8 +21,7 @@ La elección de este dataset se fundamenta en el deseo de utilizar una base real
 
 ## Preguntas y objetivos de la investigación
 
-En esta investigación nos vamos a centrar en determinar cuánto afecta el nivel educativo, la cantidad de hijos y otros indicadores, a la inserción en el mercado laboral de las mujeres uruguayas.
-
+En esta investigación buscamos determinar cuánto afecta el nivel educativo, la cantidad de hijos y otros indicadores, a la inserción en el mercado laboral de las mujeres uruguayas. Luego de un análisis principal de la base para conocer el contexto general de la investigación, intentaremos crear un algoritmo de clasificación para entender la influencia de distintas variables categóricas independientes en un resultado determinado.
 
 ## Contar historia de datos
 
