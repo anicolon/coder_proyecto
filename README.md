@@ -1,4 +1,4 @@
-# PROYECTO CODER HOUSE - Encuesta Continua de Hogares 2020
+# PROYECTO CODER HOUSE - Encuesta Continua de Hogares 2019
  
 ## Presentación de la organización y problema específico
 
@@ -10,7 +10,7 @@ A raíz de la pandemia la encuesta pasó a realizarse de forma telefónica con e
 
 Por más información se puede referir al seguiente archivo:
 
-[Presentación ECH 2020](https://rtc-cea.cepal.org/sites/default/files/2020-12/Presentaci%C3%B3n%20Uruguay.pdf)
+[Presentación ECH 2020](https://www.ine.gub.uy/c/document_library/get_file?uuid=225fb0f2-44f2-4e3b-8496-6f613be0617a&groupId=10181)
 
 
 ## Fuente del dataset y criterios de selección
@@ -27,4 +27,4 @@ Dentro de la carpeta del proyecto se puede encontrar un diccionario con los deta
 
 ## Filtros aplicados a los datos
 
-La ECH 2020 cuenta con más de 300 atributos. Para el objetivo del análisis nos centraremos en aquellos que consideramos pertinentes para la exploración y el objetivo del proyecto. Los mismos refieren a nivel educativo, estado laboral, ingresos y otros. El listado se puede encontrar dentro del archivo ipynb que contiene el análisis, en la sección de importación de datos.
+La ECH 2019 cuenta con más de 300 atributos. Para el objetivo del análisis nos centraremos en aquellos que consideramos pertinentes para la exploración y el objetivo del proyecto. Los mismos refieren a nivel educativo, estado laboral, ingresos y otros. El listado se puede encontrar dentro del archivo ipynb que contiene el análisis, en la sección de importación de datos.
